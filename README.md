@@ -1,6 +1,29 @@
 # Overview
 This is an introduction to some of the various projects on my GitHub profile! Check out any of the sections below for details about some of the cool projects I've worked on and contributed to. A common theme among many of these projects is that there was a topic I was curious about, for which a library already existed, but I wanted to "roll my own" to gain a deeper understanding of how one might approach the problem. The projects are organized by primary language, and ordered within each section by "coolness" factor arbitrarily assigned by me.
 
+Jump to:
+- [Miscellaneous](#miscellaneous)
+  - [Sketches](#sketches)
+  - [dotfiles](#dotfiles)
+- [JavaScript](#javascript)
+  - [uwaterloo-cs-userscripts](#uwaterloo-cs-userscripts)
+  - [dcheck](#dcheck)
+  - [libstudent](#libstudent)
+  - [SCL](#scl)
+  - [Tweeter](#tweeter)
+  - [Evego](#evego)
+- [Python](#python)
+  - [TD Scraper](#td-scraper)
+- [C++](#c)
+  - [DSA](#dsa)
+  - [cc3k+](#cc3k)
+  - [Aela](#aela)
+- [Java](#java)
+  - [JDACBL](#jdacbl)
+  - [ProcessingUI](#processingui)
+  - [Phusics](#phusics)
+
+
 ## Miscellaneous
 
 ### [Sketches](https://github.com/jfdoming/sketches)
@@ -31,6 +54,11 @@ This is a social media simulation (no, it's not based on Twitter, I wouldn't do 
 This is a hackathon project where I learned how to use React Native and the Google Maps API.
 
 
+## Python
+
+## [TD Scraper](https://github.com/jfdoming/td-scraper)
+After moving to university, I started needing to track my expenses more carefully (for tax purposes). Unfortunately, the web portal my bank provides (TD EasyWeb) does not have the ability to edit transaction data (as far as I know). Therefore, it made sense to track this information in a spreadsheet! After a while, updating the spreadsheet got quite tedious, so I wanted a better way to get the data from TD's web portal into my spreadsheet. Since they don't provide an API, this project was born.
+
 ## C++
 
 ### [DSA](https://github.com/jfdoming/dsa)
@@ -51,5 +79,5 @@ JDACBL is a command-based API for creating Discord bots in Java. It relies on th
 ### [ProcessingUI](https://github.com/jfdoming/ProcessingUI)
 This is a library for the open-source [Processing framework](https://processing.org/) which adds some GUI capabilities to the language (such as text/password input, buttons, etc.). The project was done as an experiment to help me understand the thought that goes into UI libraries.
 
-### [phusics](https://github.com/jfdoming/phusics)
+### [Phusics](https://github.com/jfdoming/phusics)
 This is a framework for basic physics simulations in plain Swing-based Java. The project was my first experience with the complexities surrounding numerical computation, and specifically numerical integration.
