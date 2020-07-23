@@ -65,7 +65,7 @@ After moving to university, I started needing to track my expenses more carefull
 As the README describes, this project contains "implementations of various data structures and algorithms for the purpose of learning." Essentially, whenever there's a new algorithm I want to try out, if it can be written in C++, it will end up here!
 
 ### cc3k+
-This is a game I developed with two friends for a school course, but we might have tried just a bit too hard, and ended up with a really cool multiplayer dungeon crawler! Unfortunately, the link isn't available publicly, but feel free to [shoot me an email](mailto:jfdoming@uwaterloo.ca) and I'd be happy to grant you access!
+This is a game I developed with two friends for a school course, but we might have tried just a bit too hard, and ended up with a really cool peer-to-peer multiplayer dungeon crawler! Unfortunately, the link isn't available publicly due to university policy, but feel free to [shoot me an email](mailto:jfdoming@uwaterloo.ca) and I'd be happy to grant you access!
 
 ### [Aela](https://github.com/jfdoming/Aela)
 This is a custom game engine I developed with a few friends. It has lots of features, you should check out the repository for more information!
