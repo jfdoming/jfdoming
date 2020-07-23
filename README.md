@@ -5,6 +5,10 @@ Jump to:
 - [Miscellaneous](#miscellaneous)
   - [Sketches](#sketches)
   - [dotfiles](#dotfiles)
+- [C++](#c)
+  - [DSA (Data Structures and Algorithms)](#dsa)
+  - [cc3k+](#cc3k)
+  - [Aela](#aela)
 - [JavaScript](#javascript)
   - [uwaterloo-cs-userscripts](#uwaterloo-cs-userscripts)
   - [dcheck](#dcheck)
@@ -14,10 +18,6 @@ Jump to:
   - [Evego](#evego)
 - [Python](#python)
   - [TD Scraper](#td-scraper)
-- [C++](#c)
-  - [DSA](#dsa)
-  - [cc3k+](#cc3k)
-  - [Aela](#aela)
 - [Java](#java)
   - [JDACBL](#jdacbl)
   - [ProcessingUI](#processingui)
@@ -31,6 +31,18 @@ Whenever I start a new project as an experiment (mostly mathematical projects) t
 
 ### [dotfiles](https://github.com/jfdoming/dotfiles)
 After setting up a few new installations of Linux and starting two new internships, I noticed my setup process tended to be mostly the same: add some bash and vim configuration options, download my preferred terminal emulator, and install some vim plugins. Since configuration files are meant to be saved anyway, I figured, why not upload these on GitHub so that I have easy access? (And others can borrow what they like as well! 😉)
+
+
+## C++
+
+### [DSA](https://github.com/jfdoming/dsa)
+As the README describes, this project contains "implementations of various data structures and algorithms for the purpose of learning." Essentially, whenever there's a new algorithm I want to try out, if it can be written in C++, it will end up here!
+
+### cc3k+
+This is a game I developed with two friends for a school course, but we might have tried just a bit too hard, and ended up with a really cool peer-to-peer multiplayer dungeon crawler! Unfortunately, the link isn't available publicly due to university policy, but feel free to [shoot me an email](mailto:jfdoming@uwaterloo.ca) and I'd be happy to grant you access!
+
+### [Aela](https://github.com/jfdoming/Aela)
+This is a custom game engine I developed with a few friends. It has lots of features, you should check out the repository for more information!
 
 
 ## JavaScript
@@ -58,17 +70,6 @@ This is a hackathon project where I learned how to use React Native and the Goog
 
 ## [TD Scraper](https://github.com/jfdoming/td-scraper)
 After moving to university, I started needing to track my expenses more carefully (for tax purposes). Unfortunately, the web portal my bank provides (TD EasyWeb) does not have the ability to edit transaction data (as far as I know). Therefore, it made sense to track this information in a spreadsheet! After a while, updating the spreadsheet got quite tedious, so I wanted a better way to get the data from TD's web portal into my spreadsheet. Since they don't provide an API, this project was born.
-
-## C++
-
-### [DSA](https://github.com/jfdoming/dsa)
-As the README describes, this project contains "implementations of various data structures and algorithms for the purpose of learning." Essentially, whenever there's a new algorithm I want to try out, if it can be written in C++, it will end up here!
-
-### cc3k+
-This is a game I developed with two friends for a school course, but we might have tried just a bit too hard, and ended up with a really cool peer-to-peer multiplayer dungeon crawler! Unfortunately, the link isn't available publicly due to university policy, but feel free to [shoot me an email](mailto:jfdoming@uwaterloo.ca) and I'd be happy to grant you access!
-
-### [Aela](https://github.com/jfdoming/Aela)
-This is a custom game engine I developed with a few friends. It has lots of features, you should check out the repository for more information!
 
 
 ## Java
