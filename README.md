@@ -3,21 +3,22 @@ This is an introduction to some of the various projects on my GitHub profile! Ch
 
 Jump to:
 - [Miscellaneous](#miscellaneous)
-  - [Sketches](#sketches)
+  - [Sketches](#sketches)<sup>UPDATED</sup>
   - [dotfiles](#dotfiles)
 - [C++](#c)
   - [DSA (Data Structures and Algorithms)](#dsa)
+  - [ChatLang](#chatlang)<sup>NEW</sup>
   - [cc3k+](#cc3k)
   - [Aela](#aela)
 - [JavaScript](#javascript)
   - [uwaterloo-cs-userscripts](#uwaterloo-cs-userscripts)
-  - [dcheck](#dcheck)
+  - [dcheck](#dcheck)<sup>NEW</sup>
   - [libstudent](#libstudent)
   - [SCL](#scl)
   - [Tweeter](#tweeter)
   - [Evego](#evego)
 - [Python](#python)
-  - [TD Scraper](#td-scraper)
+  - [TD Scraper](#td-scraper)<sup>NEW</sup>
 - [Java](#java)
   - [JDACBL](#jdacbl)
   - [ProcessingUI](#processingui)
@@ -37,6 +38,9 @@ After setting up a few new installations of Linux and starting two new internshi
 
 ### [DSA](https://github.com/jfdoming/dsa)
 As the README describes, this project contains "implementations of various data structures and algorithms for the purpose of learning." Essentially, whenever there's a new algorithm I want to try out, if it can be written in C++, it will end up here!
+
+### [ChatLang](https://github.com/jfdoming/ChatLang)
+This is a programming language created entirely by myself and [Jessica Zhang](https://github.com/jessicazhang236) over the course of the 22-day `Repl.it` language Jam, for the purpose of exploring an idea called "algebraic effects" as well as some other quirky syntactic sugar. Visit the repository for more detailed information, and to try out the language yourself!
 
 ### cc3k+
 This is a game I developed with two friends for a school course, but we might have tried just a bit too hard, and ended up with a really cool peer-to-peer multiplayer dungeon crawler! Unfortunately, the link isn't available publicly due to university policy, but feel free to [shoot me an email](mailto:jfdoming@uwaterloo.ca) and I'd be happy to grant you access!
