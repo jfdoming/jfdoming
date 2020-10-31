@@ -5,6 +5,7 @@ Jump to:
 - [Miscellaneous](#miscellaneous)
   - [Sketches](#sketches)<sup>UPDATED</sup>
   - [dotfiles](#dotfiles)
+  - [uwaterloo-cs-350-tools](#uwaterloo-cs-350-tools)<sup>NEW</sup>
 - [C++](#c)
   - [DSA (Data Structures and Algorithms)](#dsa)
   - [ChatLang](#chatlang)<sup>NEW</sup>
@@ -12,13 +13,14 @@ Jump to:
   - [Aela](#aela)
 - [JavaScript](#javascript)
   - [uwaterloo-cs-userscripts](#uwaterloo-cs-userscripts)
-  - [dcheck](#dcheck)<sup>NEW</sup>
+  - [dcheck](#dcheck)
   - [libstudent](#libstudent)
   - [SCL](#scl)
   - [Tweeter](#tweeter)
   - [Evego](#evego)
 - [Python](#python)
-  - [TD Scraper](#td-scraper)<sup>NEW</sup>
+  - [TD Scraper](#td-scraper)
+  - [real-analysis-tools](#real-analysis-tools)<sup>NEW</sup>
 - [Java](#java)
   - [JDACBL](#jdacbl)
   - [ProcessingUI](#processingui)
@@ -32,6 +34,9 @@ Whenever I start a new project as an experiment (mostly mathematical projects) t
 
 ### [dotfiles](https://github.com/jfdoming/dotfiles)
 After setting up a few new installations of Linux and starting two new internships, I noticed my setup process tended to be mostly the same: add some bash and vim configuration options, download my preferred terminal emulator, and install some vim plugins. Since configuration files are meant to be saved anyway, I figured, why not upload these on GitHub so that I have easy access? (And others can borrow what they like as well! 😉)
+
+### [uwaterloo-cs-350-tools](https://github.com/jfdoming/uwaterloo-cs-350-tools)
+One of the first assignment's in Waterloo's CS 350 (Operating Systems) requires developing a simple traffic controller which meets timing constraints. In order to ensure the constraints are met, we were expected to test our solutions hundreds of times, something much too tedious to do by hand! Instead, I wrote a script to test my program for me, and decided to open source it with the hope it will help other computer scientists and software engineers in future offerings!
 
 
 ## C++
@@ -72,8 +77,11 @@ This is a hackathon project where I learned how to use React Native and the Goog
 
 ## Python
 
-## [TD Scraper](https://github.com/jfdoming/td-scraper)
+### [TD Scraper](https://github.com/jfdoming/td-scraper)
 After moving to university, I started needing to track my expenses more carefully (for tax purposes). Unfortunately, the web portal my bank provides (TD EasyWeb) does not have the ability to edit transaction data (as far as I know). Therefore, it made sense to track this information in a spreadsheet! After a while, updating the spreadsheet got quite tedious, so I wanted a better way to get the data from TD's web portal into my spreadsheet. Since they don't provide an API, this project was born.
+
+### [real-analysis-tools](https://github.com/jfdoming/real-analysis-tools)
+In the course of working on a particularly challenging problem set for my Real Analysis course, I developed a simple model of the sets we were working with, with the goal of helping me work on the problem more efficiently. Since my model could be useful in larger contexts, I decided to open source it with the hope it will help someone in the future!
 
 
 ## Java
