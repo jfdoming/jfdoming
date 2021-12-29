@@ -38,7 +38,7 @@ Whenever I start a new project as an experiment (mostly mathematical projects) t
 After setting up a few new installations of Linux and starting two new internships, I noticed my setup process tended to be mostly the same: add some bash and vim configuration options, download my preferred terminal emulator, and install some vim plugins. Since configuration files are meant to be saved anyway, I figured, why not upload these on GitHub so that I have easy access? (And others can borrow what they like as well! 😉)
 
 ### [uwaterloo-cs-350-tools](https://github.com/jfdoming/uwaterloo-cs-350-tools)
-One of the first assignment's in Waterloo's CS 350 (Operating Systems) requires developing a simple traffic controller which meets timing constraints. In order to ensure the constraints are met, we were expected to test our solutions hundreds of times, something much too tedious to do by hand! Instead, I wrote a script to test my program for me, and decided to open source it with the hope it will help other computer scientists and software engineers in future offerings!
+One of the first assignments in Waterloo's CS 350 (Operating Systems) requires developing a simple traffic controller which meets timing constraints. In order to ensure the constraints are met, we were expected to test our solutions hundreds of times, something much too tedious to do by hand! Instead, I wrote a script to test my program for me, and decided to open source it with the hope it will help other computer scientists and software engineers in future offerings!
 
 
 ## C++
