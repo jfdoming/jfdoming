@@ -5,7 +5,7 @@ Jump to:
 - [Miscellaneous](#miscellaneous)
   - [Sketches](#sketches)
   - [dotfiles](#dotfiles)<sup>UPDATED</sup>
-  - [uwaterloo-cs-350-tools](#uwaterloo-cs-350-tools)<sup>NEW</sup>
+  - [uwaterloo-cs-350-tools](#uwaterloo-cs-350-tools)
 - [C++](#c)
   - [DSA (Data Structures and Algorithms)](#dsa)
   - [ChatLang](#chatlang)
