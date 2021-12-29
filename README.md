@@ -3,16 +3,17 @@ This is an introduction to some of the various projects on my GitHub profile! Ch
 
 Jump to:
 - [Miscellaneous](#miscellaneous)
-  - [Sketches](#sketches)<sup>UPDATED</sup>
-  - [dotfiles](#dotfiles)
+  - [Sketches](#sketches)
+  - [dotfiles](#dotfiles)<sup>UPDATED</sup>
   - [uwaterloo-cs-350-tools](#uwaterloo-cs-350-tools)<sup>NEW</sup>
 - [C++](#c)
   - [DSA (Data Structures and Algorithms)](#dsa)
-  - [ChatLang](#chatlang)<sup>NEW</sup>
+  - [ChatLang](#chatlang)
   - [cc3k+](#cc3k)
   - [Aela](#aela)
 - [JavaScript](#javascript)
   - [uwaterloo-cs-userscripts](#uwaterloo-cs-userscripts)
+  - [shortlinks](#shortlinks)<sup>NEW</sup>
   - [dcheck](#dcheck)
   - [libstudent](#libstudent)
   - [SCL](#scl)
@@ -20,9 +21,10 @@ Jump to:
   - [Evego](#evego)
 - [Python](#python)
   - [TD Scraper](#td-scraper)
-  - [real-analysis-tools](#real-analysis-tools)<sup>NEW</sup>
+  - [real-analysis-tools](#real-analysis-tools)
+  - [todo](#todo)<sup>NEW</sup>
 - [Java](#java)
-  - [JDACBL](#jdacbl)<sup>UPDATED</sup>
+  - [JDACBL](#jdacbl)
   - [ProcessingUI](#processingui)
   - [Phusics](#phusics)
 
@@ -59,6 +61,9 @@ This is a custom game engine I developed with a few friends. It has lots of feat
 ### [uwaterloo-cs-userscripts](https://github.com/jfdoming/uwaterloo-cs-userscripts)
 In many computer science courses at the University of Waterloo, students have to use online systems to submit their assignments which are, at best, slightly dated. Recognizing this problem, I wrote a couple of client-side "userscripts" which make the experience on these sites much better!
 
+### [shortlinks](https://github.com/jfdoming/shortlinks)
+One of the companies I've previously interned at had a nifty web browser extension, where you could type in a shorter version of a URL and the browser would modify your request to send it to some longer one. I thought it was super useful, and really missed something like it when I returned to school, so I promptly got to work recreating the features of that extension for myself!
+
 ### [dcheck](https://github.com/jfdoming/dcheck)
 It's always a hassle for me to figure out whether a course I want to take is offered next term. This information is available online, but not in an easily-searchable format. `dcheck` is nothing more than a simple form box with autocomplete, but the amount of time it's saved me with planning is immeasurable.
 
@@ -82,6 +87,9 @@ After moving to university, I started needing to track my expenses more carefull
 
 ### [real-analysis-tools](https://github.com/jfdoming/real-analysis-tools)
 In the course of working on a particularly challenging problem set for my Real Analysis course, I developed a simple model of the sets we were working with, with the goal of helping me work on the problem more efficiently. Since my model could be useful in larger contexts, I decided to open source it with the hope it will help someone in the future!
+
+### [todo](https://github.com/jfdoming/todo)
+At the start of a new school term, I often export my class schedule and assignment schedule to Google Calendar, so that I can stay organized throughout the term. However, I realized there wasn't a good way to view my upcoming assignments! So, despite the abundance of TODO-list applications out there, I figured I'd make _juuuuust_ one more, with the goal of hopefully improving my organization even more. It's working so far!
 
 
 ## Java
