@@ -8,7 +8,7 @@ Jump to:
   - [uwaterloo-cs-350-tools](#uwaterloo-cs-350-tools)
 - [C++](#c)
   - [DSA (Data Structures and Algorithms)](#dsa)
-  - [ChatLang](#chatlang)
+  - [ChatLang](#chatlang)<sup>UPDATED</sup>
   - [cc3k+](#cc3k)
   - [Aela](#aela)
 - [JavaScript](#javascript)
